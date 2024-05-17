@@ -1,8 +1,8 @@
 # Pokemon-TCG-Database-Privacy-Policy
 
-Privacy Policy for Pokemon TCG Database
+Privacy Policy for PokéCollector
 
-Your privacy is important to us. Pokemon TCG Database (the "App") is designed to function without collecting any personal information from you.
+Your privacy is important to us. PokéCollector (the "App") is designed to function without collecting any personal information from you.
 
 Information We Do Not Collect
 
